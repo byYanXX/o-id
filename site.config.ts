@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'LEE',
 
   // open graph metadata (optional)
-  description: "Hanmil's Notion blog",
+  description: "LEE's Notion blog",
   // socialImageTitle: 'HM_dev',
   // socialImageSubtitle: 'Hello World! 👋',
 
@@ -31,7 +31,7 @@ export default siteConfig({
   defaultPageCoverPosition: 0.5,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'hanmilLee/nextjs-notion-starter-kit',
+  utterancesGitHubRepo: 'chusight/o-id',
  
   // Cusdis comment widget (optional)
   // cusdis: {
