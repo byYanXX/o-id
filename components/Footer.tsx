@@ -42,7 +42,7 @@ export const FooterImpl: React.FC = () => {
           <a href='https://hits.seeyoufarm.com'>
             <img
               style={{ display: 'block', margin: '0px auto' }}
-              src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhmdev.vercel.app&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total hits&edge_flat=true'
+              https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fo-id.cc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true'
             />
           </a>
           <div>Copyright 2022 {config.author} </div>
@@ -129,3 +129,4 @@ export const FooterImpl: React.FC = () => {
 }
 
 export const Footer = React.memo(FooterImpl)
+
